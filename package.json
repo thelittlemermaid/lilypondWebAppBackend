@@ -1,0 +1,26 @@
+{
+  "name": "lilypondwebappbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thelittlemermaid/lilypondWebAppBackend.git"
+  },
+  "author": "ariel and charlie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thelittlemermaid/lilypondWebAppBackend/issues"
+  },
+  "homepage": "https://github.com/thelittlemermaid/lilypondWebAppBackend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
